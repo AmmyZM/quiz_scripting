@@ -1,4 +1,3 @@
-## quiz_scripting
 # Análisis de Archivos de Texto
 
 Propietario del repositorio: Ammy Zúñiga Mora
