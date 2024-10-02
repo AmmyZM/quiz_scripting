@@ -1,0 +1,18 @@
+
+Archivo: file1.txt
+Lineas: 4
+Palabras: 34
+Ocurrencias de Python: 3
+
+
+Archivo: file2.txt
+Lineas: 4
+Palabras: 32
+Ocurrencias de Python: 1
+
+
+Archivo: file3.txt
+Lineas: 4
+Palabras: 33
+Ocurrencias de Python: 1
+
